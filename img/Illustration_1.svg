@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="198px" height="178px" viewBox="0 0 198 178" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Illustration_1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="50%" gradientTransform="translate(0.500000,0.500000),scale(0.828279,1.000000),rotate(90.000000),scale(1.000000,1.201037),translate(-0.500000,-0.500000)" id="radialGradient-1">
+            <stop stop-color="#9DB95A" offset="0%"></stop>
+            <stop stop-color="#7CB24A" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Illustration_1" fill-rule="nonzero">
+            <ellipse id="Oval" fill="#37512A" opacity="0.400000006" cx="99.41" cy="159.18" rx="84.33" ry="18.17"></ellipse>
+            <ellipse id="Oval-Copy-2" fill="url(#radialGradient-1)" cx="99.35" cy="81.72" rx="98.59" ry="81.66"></ellipse>
+            <path d="M19.51,35.07 C19.51,35.07 57.79,12.81 99.35,12.81 C146.45,12.81 179.18,35.09 179.18,35.09 C179.18,35.09 141.79,23.95 99.35,23.95 C54.12,23.95 19.51,35.07 19.51,35.07 Z" id="Shape" fill="#4B7A39"></path>
+            <path d="M4.46,103.46 C5.54,103.95 55.28,126.35 99.35,126.35 C147.2,126.35 194.23,103.46 194.23,103.46 C194.23,103.46 149.79,113.98 99.35,113.98 C45.6,113.98 4.46,103.46 4.46,103.46 Z" id="Shape" fill="#4B7A39"></path>
+            <path d="M4.46,60.49 C5.54,60 55.28,37.6 99.35,37.6 C147.2,37.6 194.23,60.49 194.23,60.49 C194.23,60.49 149.79,49.96 99.35,49.96 C45.6,49.96 4.46,60.49 4.46,60.49 Z" id="Shape" fill="#4B7A39"></path>
+            <path d="M0.76,81.95 C1.85,81.71 53.56,70.51 99.35,70.51 C149.06,70.51 197.93,81.95 197.93,81.95 C197.93,81.95 151.3,92.95 98.93,92.95 C43.05,92.93 0.76,81.95 0.76,81.95 Z" id="Shape" fill="#4B7A39"></path>
+            <path d="M19.51,130.01 C19.51,130.01 57.79,152.29 99.35,152.29 C146.45,152.29 179.18,130.01 179.18,130.01 C179.18,130.01 141.79,141.15 99.35,141.15 C54.12,141.15 19.51,130.01 19.51,130.01 Z" id="Shape" fill="#4B7A39"></path>
+        </g>
+    </g>
+</svg>
